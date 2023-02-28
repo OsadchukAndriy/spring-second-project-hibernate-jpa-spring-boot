@@ -1,1 +1,1 @@
-web: java -jar <SpringSecondProjectHibernateJpaSpringBootApplication>.jar
+web: java -jar <projectcont>.jar
